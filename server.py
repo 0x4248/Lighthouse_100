@@ -1,7 +1,7 @@
 # Lighthouse 100
 # A simple flask server that scores 100 on all parts of the Lighthouse audit and is PWA optimised.
-# Github: https://www.github.com/lewisevans2007/lighthouse_100
-# By: Lewis Evans
+# Github: https://www.github.com/0x4248/lighthouse_100
+# By: 0x4248
 
 import flask
 from flask import request, jsonify, send_from_directory
